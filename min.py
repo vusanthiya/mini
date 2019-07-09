@@ -1,2 +1,2 @@
-num=list(map(int,input().split()))
-print(min(num))
+ay=list(map(int,input().split()[:10]))
+print(min(ay))
